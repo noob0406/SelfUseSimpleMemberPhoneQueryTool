@@ -252,4 +252,3 @@ int getMaxPrime(int number)
 	}
 	return 1;
 }
-
